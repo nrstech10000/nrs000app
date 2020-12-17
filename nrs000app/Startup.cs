@@ -16,6 +16,7 @@ namespace nrs000app
         public Startup(IConfiguration configuration)
         {
             //test comment
+            //test comment 2
             Configuration = configuration;
         }
 
