@@ -13,7 +13,7 @@ namespace nrs000app
     {
         public static void Main(string[] args)
         {
-            //comment 
+            //comment on 22 dec 2020
             CreateHostBuilder(args).Build().Run();
         }
 
